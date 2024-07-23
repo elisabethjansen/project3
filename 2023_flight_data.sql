@@ -1,5 +1,6 @@
-DROP TABLE if EXISTS flight_data;
-
+DROP TABLE IF EXISTS flight_data;
+DROP TABLE IF EXISTS locations;
+	
 CREATE TABLE flight_data (
     flight_data_id SERIAL PRIMARY KEY,
     month INT,
@@ -23,4 +24,8 @@ CREATE TABLE flight_data (
     late_aircraft_delay_min FLOAT
 );
 
-SELECT * FROM flight_data
+CREATE TABLE locations (
+    airport   VARCHAR(3) PRIMARY KEY,
+    latitude FLOAT (50),
+    longitude FLOAT (50)
+);
