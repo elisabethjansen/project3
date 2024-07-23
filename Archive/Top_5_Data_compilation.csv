@@ -1,0 +1,19 @@
+Ranks,Airline,Total Delays - ct,,Carrier Delay - ct,,Weather Delay - ct,,Nat Air Sys Delay - ct,,Security Delay - ct,,Late  Aircraft Delay - ct,,Flights Cancelled - ct,,Flights Diverted - ct,,Total Delays - hrs,,,Carrier Delay - hrs,,Weather Delay - hrs,,Nat Air Sys Delay - hrs,,Security Delay - hrs,,Late  Aircraft Delay - hrs,
+1,,Southwest Airlines,309963,Southwest Airlines,92307.23,SkyWest Airlines Inc.,11733.82,Southwest Airlines,61818,Spirit Airlines,1029.97,Southwest Airlines,150896.03,Southwest Airlines,14325,Southwest Airlines,2902,American Airlines Network,304923.45,12705.14,American Airlines Network (107798.47),,SkyWest Airlines Inc.,21501.95,Southwest Airlines,44930.75,Spirit Airlines,742.22,American Airlines Network,143807.6
+2,,American Airlines Network,213850,Delta Air Lines Network,65729.11,American Airlines Network,7415.91,American Airlines Network,54099.65,Southwest Airlines,1017.3,American Airlines Network,86234.37,United Air Lines Network,10270,American Airlines Network,2495,Southwest Airlines,256699.52,10695.81,Delta Air Lines Network (94092.05),,American Airlines Network,12570.3,American Airlines Network,40154.72,Southwest Airlines,719.3,Southwest Airlines,133375.52
+3,,Delta Air Lines Network,159257,American Airlines Network,65391.12,Delta Air Lines Network,4792.08,United Air Lines Network,46441.84,American Airlines Network,708.63,United Air Lines Network,47129.63,Delta Air Lines Network,10016,SkyWest Airlines Inc.,2051,Delta Air Lines Network,189609.53,7900.40,SkyWest Airlines Inc. (74959.88),,Delta Air Lines Network,9278.15,United Air Lines Network,37259.6,American Airlines Network,592.37,United Air Lines Network,70253.68
+4,,United Air Lines Network,148386,SkyWest Airlines Inc.,61548.9,United Air Lines Network,3976.5,Delta Air Lines Network,41965.23,Alaska Airlines Network,426.51,Delta Air Lines Network,46590.17,American Airlines Network,9978,Delta Air Lines Network,2039,United Air Lines Network,175673.6,7319.73,Southwest Airlines (71803.3),,United Air Lines Network,7470.97,Spirit Airlines,33688.3,SkyWest Airlines Inc.,305.72,Delta Air Lines Network,54490.9
+5,,SkyWest Airlines Inc.,108189,United Air Lines Network,50808.62,Southwest Airlines,3924.71,Spirit Airlines,31549.78,SkyWest Airlines Inc.,327.42,JetBlue Airways,28962.2,SkyWest Airlines Inc.,8186,United Air Lines Network,1910,SkyWest Airlines Inc.,140363.4,5848.48,United Air Lines Network (60657.4),,Southwest Airlines,5870.65,Delta Air Lines Network,31574.05,Alaska Airlines Network,248.65,JetBlue Airways,47027.42
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ranks,Airport,Total Delays - ct,,Carrier Delay - ct,,Weather Delay - ct,,Nat Air Sys Delay - ct,,Security Delay - ct,,Late  Aircraft Delay - ct,,Flights Cancelled - ct,,Flights Diverted - ct,,Total Delays - hrs,,,Carrier Delay - hrs,,Weather Delay - hrs,,Nat Air Sys Delay - hrs,,Security Delay - hrs,,Late  Aircraft Delay - hrs,
+1,,DEN,62805,ORD,19094.21,DFW,3277.44,DEN,19064.38,DFW,232.5,DFW,23124.16,DFW,4691,DEN,1167,DFW,89335.9,3722.33,DFW,32983.1,DFW,5891.98,DEN,17485.87,DFW,195.62,DFW,38155.35
+2,,DFW,60305,DEN,19034.14,DEN,2297.23,LAS,16866.96,ANC,188.58,DEN,22299.89,DEN,4587,DFW,956,ORD,76050.9,3168.79,ATL,29477.38,DEN,4350.77,LAS,15026.65,CLT,127.8,ORD,29620.4
+3,,ORD,56837,ATL,18557.79,ATL,2196.69,ORD,16407.97,LAX,168.87,ATL,21113.06,EWR,4574,LGA,702,DEN,74204.33,3091.85,ORD,28216.98,ORD,4230.62,ORD,13869.7,LAS,123.62,DEN,28482.25
+4,,ATL,55727,DFW,17575.99,ORD,2042.29,DFW,16094.93,LAS,166.14,ORD,19164.16,LGA,4553,ORD,699,ATL,70323.02,2930.13,DEN,23809.18,ATL,4030.4,EWR,13674.35,ATL,122.9,CLT,27724.45
+5,,LAS,48933,LAX,14827.17,CLT,1661.55,EWR,13851.6,ATL,151.55,LAS,18353.63,ORD,3932,MCO,661,CLT,59510.08,2479.59,CLT,20535.8,CLT,3034.68,MCO,13450.32,LAX,121.65,ATL,25321.32
