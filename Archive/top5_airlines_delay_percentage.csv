@@ -1,0 +1,6 @@
+carrier_name,total_delays,total_flights,delay_percentage
+Frontier Airlines,54525.0,177542.0,30.711043020806343
+JetBlue Airways,83550.0,274852.0,30.398177928485147
+Spirit Airlines,75428.0,263871.0,28.58517987956236
+Allegiant Air,29653.0,115539.0,25.66492699434823
+Hawaiian Airlines Network,18958.0,80967.0,23.414477503180308
