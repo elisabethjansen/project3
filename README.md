@@ -56,6 +56,9 @@ See database connection and analysis examples for this project within the Jupyte
 ## Resources
 
 https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?20=E; "Bureau of Transportation Statistics"
+
 https://github.com/ip2location/ip2location-iata-icao/blob/master/iata-icao.csv
+
 StackOverflow
+
 Harvard Business School Online: 5 Principles of Data Ethics for Business Professionals (https://online.hbs.edu/blog/post/data-ethics) 
