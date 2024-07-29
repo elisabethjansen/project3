@@ -18,10 +18,29 @@ Of the top 5 airlines with the longest delays, what is the range in frequency of
 To replicate the database used to carry out analysis please use the following:
  
  1. Using pgAdmin to access PostreSQL create a new database and use the provided schema found in the Resources folder to create the tables. 
- 2. The first table is called "flight_data", to this table import the csv file "2023_flight_data_cleaned.csv" from the Resources folder
+ 2. The first table is called "flight_data", to this table import the csv file "2023_data_cleaned.csv" from the Resources folder
  3. The second table is callled "location", to this table import the csv file "clean_plots.csv" from the Resources folder
  4. Install psycopg2 via the command line using "pip install psycopg2"
- 5. Database can be connected via psycopg2 and SQLalchemy. See database connection and analysis examples in the jupyter notebook files within the Analysis folder.
+ 5. Start up a new Jupyter Notebook file and import the following dependencies: 
+    A. pandas
+    B. from sqlalchemy import create_engine
+    C. psychopg2
+    D. matplotlib.pyplot (optional)
+ 5. Database can be connected via psycopg2 and sqlalchemy. Setting up the database connection uses the following parameters: 
+    # Connection parameters
+        host = '127.0.0.1'
+        port = '5432'  # default PostgreSQL port 
+        database = 'yournameofdatabase'
+        user = 'yourusername'
+        password = 'yourpassword'
+
+    # Create the connection string
+        connection_string = f'postgresql+psycopg2://{user}:{password}@{host}:{port}/{database}'
+
+    # Create the database engine
+        engine = create_engine(connection_string)
+
+See database connection and analysis examples for this project within the Jupyter Notebook files in the Analysis folder (ex. seasonReagion.ipynb). Documentation for alternative set ups and usage of psycopg2 can be found at https://www.psycopg.org/docs/index.html 
 
  ## Ethical considerations
 
