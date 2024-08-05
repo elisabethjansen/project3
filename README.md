@@ -38,7 +38,7 @@ Regional & Seasonal Analysis: the regional delays due to weather for all analyze
 
 
 Frequency vs Duration of Delays: There is a positive correlation between frequency (in #) of delays and total minutes delayed for a given airline, airport and month. This makes sense as more delays contribute to a longer total delay time. When graphing the distribution of frequency as the % of total flights delayed vs duration, there is a somewhat random distribution. This provides evidence against the hypothesis that airlines may be willing to endure more frequent delays if delays are shorter in duration and airlines with fewer delays may have longer delays. Lastly, when plotting % of flights delayed out of total flights against average duration of delay per flight this revealed specific airlines who perform poorly and well in both categories. This may be helpful to travelers in choosing high risk vs low risk or based on the variable they are more willing to accommodate.
-
+4. Mapping: long_lat_test.json will be used for notebook heat_map_data_ipynb. Heat_map_data_ipynb has the code to create geometry_plots.csv needed for plotting.  Redefine geometry_plots.csv to geometry_plots.js for our needed points on map.  In the mapping folder with the static file.  We have the logic.js needed to run our map.  Had diffcutly coordinating points to map.  
 
 ## Ethical considerations
 
